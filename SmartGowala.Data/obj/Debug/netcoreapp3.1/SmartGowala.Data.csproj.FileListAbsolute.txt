@@ -1,0 +1,31 @@
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Data\bin\Debug\netcoreapp3.1\SmartGowala.Data.deps.json
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Data\bin\Debug\netcoreapp3.1\SmartGowala.Data.runtimeconfig.json
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Data\bin\Debug\netcoreapp3.1\SmartGowala.Data.runtimeconfig.dev.json
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Data\bin\Debug\netcoreapp3.1\SmartGowala.Data.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Data\bin\Debug\netcoreapp3.1\SmartGowala.Data.pdb
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Data\bin\Debug\netcoreapp3.1\SmartGowala.Shared.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Data\bin\Debug\netcoreapp3.1\SmartGowala.Shared.pdb
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Data\obj\Debug\netcoreapp3.1\SmartGowala.Data.csprojAssemblyReference.cache
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Data\obj\Debug\netcoreapp3.1\SmartGowala.Data.AssemblyInfoInputs.cache
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Data\obj\Debug\netcoreapp3.1\SmartGowala.Data.AssemblyInfo.cs
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Data\obj\Debug\netcoreapp3.1\SmartGowala.Data.csproj.CoreCompileInputs.cache
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Data\obj\Debug\netcoreapp3.1\SmartGowala.Data.csproj.CopyComplete
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Data\obj\Debug\netcoreapp3.1\SmartGowala.Data.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Data\obj\Debug\netcoreapp3.1\SmartGowala.Data.pdb
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Data\obj\Debug\netcoreapp3.1\SmartGowala.Data.genruntimeconfig.cache
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Data\bin\Debug\netcoreapp3.1\SmartGowala.Data.deps.json
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Data\bin\Debug\netcoreapp3.1\SmartGowala.Data.runtimeconfig.json
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Data\bin\Debug\netcoreapp3.1\SmartGowala.Data.runtimeconfig.dev.json
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Data\bin\Debug\netcoreapp3.1\SmartGowala.Data.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Data\bin\Debug\netcoreapp3.1\SmartGowala.Data.pdb
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Data\bin\Debug\netcoreapp3.1\SmartGowala.Shared.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Data\bin\Debug\netcoreapp3.1\SmartGowala.Shared.pdb
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Data\obj\Debug\netcoreapp3.1\SmartGowala.Data.csproj.AssemblyReference.cache
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Data\obj\Debug\netcoreapp3.1\SmartGowala.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Data\obj\Debug\netcoreapp3.1\SmartGowala.Data.AssemblyInfoInputs.cache
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Data\obj\Debug\netcoreapp3.1\SmartGowala.Data.AssemblyInfo.cs
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Data\obj\Debug\netcoreapp3.1\SmartGowala.Data.csproj.CoreCompileInputs.cache
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Data\obj\Debug\netcoreapp3.1\SmartGowala.Data.csproj.CopyComplete
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Data\obj\Debug\netcoreapp3.1\SmartGowala.Data.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Data\obj\Debug\netcoreapp3.1\SmartGowala.Data.pdb
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Data\obj\Debug\netcoreapp3.1\SmartGowala.Data.genruntimeconfig.cache

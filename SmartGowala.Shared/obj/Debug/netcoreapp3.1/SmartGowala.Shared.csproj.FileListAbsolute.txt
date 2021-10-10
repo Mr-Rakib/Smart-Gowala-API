@@ -1,0 +1,19 @@
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Shared\bin\Debug\netcoreapp3.1\SmartGowala.Shared.deps.json
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Shared\bin\Debug\netcoreapp3.1\SmartGowala.Shared.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Shared\bin\Debug\netcoreapp3.1\SmartGowala.Shared.pdb
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Shared\obj\Debug\netcoreapp3.1\SmartGowala.Shared.csprojAssemblyReference.cache
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Shared\obj\Debug\netcoreapp3.1\SmartGowala.Shared.AssemblyInfoInputs.cache
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Shared\obj\Debug\netcoreapp3.1\SmartGowala.Shared.AssemblyInfo.cs
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Shared\obj\Debug\netcoreapp3.1\SmartGowala.Shared.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Shared\obj\Debug\netcoreapp3.1\SmartGowala.Shared.pdb
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowala.Shared\obj\Debug\netcoreapp3.1\SmartGowala.Shared.csproj.CoreCompileInputs.cache
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Shared\bin\Debug\netcoreapp3.1\SmartGowala.Shared.deps.json
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Shared\bin\Debug\netcoreapp3.1\SmartGowala.Shared.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Shared\bin\Debug\netcoreapp3.1\SmartGowala.Shared.pdb
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Shared\obj\Debug\netcoreapp3.1\SmartGowala.Shared.csproj.AssemblyReference.cache
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Shared\obj\Debug\netcoreapp3.1\SmartGowala.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Shared\obj\Debug\netcoreapp3.1\SmartGowala.Shared.AssemblyInfoInputs.cache
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Shared\obj\Debug\netcoreapp3.1\SmartGowala.Shared.AssemblyInfo.cs
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Shared\obj\Debug\netcoreapp3.1\SmartGowala.Shared.csproj.CoreCompileInputs.cache
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Shared\obj\Debug\netcoreapp3.1\SmartGowala.Shared.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowala.Shared\obj\Debug\netcoreapp3.1\SmartGowala.Shared.pdb

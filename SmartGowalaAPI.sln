@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartGowala.API", "SmartGowalaAPI\SmartGowala.API.csproj", "{5CA64623-E5D7-4543-A019-228232362EC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartGowala.Data", "SmartGowala.Data\SmartGowala.Data.csproj", "{A44353A4-F1BF-4803-98E4-88385A707515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartGowala.Business", "SmartGowala.Business\SmartGowala.Business.csproj", "{45D05EF5-43AF-488A-B7E6-54F3B7B5A487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartGowala.Shared", "SmartGowala.Shared\SmartGowala.Shared.csproj", "{8E49B14D-A3A4-4185-8E6E-39245D5E4F25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CA64623-E5D7-4543-A019-228232362EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA64623-E5D7-4543-A019-228232362EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA64623-E5D7-4543-A019-228232362EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA64623-E5D7-4543-A019-228232362EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A44353A4-F1BF-4803-98E4-88385A707515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44353A4-F1BF-4803-98E4-88385A707515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44353A4-F1BF-4803-98E4-88385A707515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44353A4-F1BF-4803-98E4-88385A707515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45D05EF5-43AF-488A-B7E6-54F3B7B5A487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D05EF5-43AF-488A-B7E6-54F3B7B5A487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D05EF5-43AF-488A-B7E6-54F3B7B5A487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D05EF5-43AF-488A-B7E6-54F3B7B5A487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E49B14D-A3A4-4185-8E6E-39245D5E4F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E49B14D-A3A4-4185-8E6E-39245D5E4F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E49B14D-A3A4-4185-8E6E-39245D5E4F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E49B14D-A3A4-4185-8E6E-39245D5E4F25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F751E1BF-B929-40FE-9D12-E210BA4603A2}
+	EndGlobalSection
+EndGlobal

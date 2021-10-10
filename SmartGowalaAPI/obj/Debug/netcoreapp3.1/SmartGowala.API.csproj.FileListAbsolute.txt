@@ -1,0 +1,329 @@
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\obj\Debug\netcoreapp3.1\SmartGowala.API.csprojAssemblyReference.cache
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\obj\Debug\netcoreapp3.1\SmartGowala.API.AssemblyInfoInputs.cache
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\obj\Debug\netcoreapp3.1\SmartGowala.API.AssemblyInfo.cs
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\obj\Debug\netcoreapp3.1\SmartGowala.API.csproj.CoreCompileInputs.cache
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\obj\Debug\netcoreapp3.1\SmartGowala.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.API.exe
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.Business.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.Data.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.Shared.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.Business.pdb
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.Shared.pdb
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.Data.pdb
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\obj\Debug\netcoreapp3.1\SmartGowala.API.RazorTargetAssemblyInfo.cache
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\obj\Debug\netcoreapp3.1\SmartGowala.API.csproj.CopyComplete
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\obj\Debug\netcoreapp3.1\staticwebassets\SmartGowala.API.StaticWebAssets.Manifest.cache
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\obj\Debug\netcoreapp3.1\staticwebassets\SmartGowala.API.StaticWebAssets.xml
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\obj\Debug\netcoreapp3.1\SmartGowala.API.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\obj\Debug\netcoreapp3.1\SmartGowala.API.pdb
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.API.deps.json
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.API.runtimeconfig.json
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.API.runtimeconfig.dev.json
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.API.dll
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.API.pdb
+D:\Rakib\MWL\Main Projects\SmartGowalaAPI\SmartGowalaAPI\obj\Debug\netcoreapp3.1\SmartGowala.API.genruntimeconfig.cache
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.API.exe
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.API.deps.json
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.API.runtimeconfig.json
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.API.runtimeconfig.dev.json
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.API.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.API.pdb
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.Business.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.Data.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.Shared.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.Business.pdb
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.Shared.pdb
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\bin\Debug\netcoreapp3.1\SmartGowala.Data.pdb
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\obj\Debug\netcoreapp3.1\SmartGowala.API.csproj.AssemblyReference.cache
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\obj\Debug\netcoreapp3.1\SmartGowala.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\obj\Debug\netcoreapp3.1\SmartGowala.API.AssemblyInfoInputs.cache
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\obj\Debug\netcoreapp3.1\SmartGowala.API.AssemblyInfo.cs
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\obj\Debug\netcoreapp3.1\SmartGowala.API.csproj.CoreCompileInputs.cache
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\obj\Debug\netcoreapp3.1\SmartGowala.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\obj\Debug\netcoreapp3.1\staticwebassets\SmartGowala.API.StaticWebAssets.Manifest.cache
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\obj\Debug\netcoreapp3.1\staticwebassets\SmartGowala.API.StaticWebAssets.xml
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\SmartGowala.API.styles.css
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\obj\Debug\netcoreapp3.1\SmartGowala.API.RazorTargetAssemblyInfo.cache
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\obj\Debug\netcoreapp3.1\SmartGowala.API.csproj.CopyComplete
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\obj\Debug\netcoreapp3.1\SmartGowala.API.dll
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\obj\Debug\netcoreapp3.1\SmartGowala.API.pdb
+D:\Md Rakibul Hasan\Match Wheel Limited\Projects\Test\Smart-Gowala\SmartGowalaAPI\obj\Debug\netcoreapp3.1\SmartGowala.API.genruntimeconfig.cache
